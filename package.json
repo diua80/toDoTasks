@@ -1,0 +1,26 @@
+{
+  "name": "todotasks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "abortcontroller-polyfill": "^1.7.3",
+    "parcel": "^2.6.0",
+    "sass": "^1.52.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diua80/toDoTasks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diua80/toDoTasks/issues"
+  },
+  "homepage": "https://github.com/diua80/toDoTasks#readme"
+}
